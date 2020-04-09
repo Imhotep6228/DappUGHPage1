@@ -22,7 +22,7 @@
     "truffle": "5.0.5",
     "web3": "1.0.0-beta.55"
   },
-  "homepage": "http://dappuniversity.github.io/social-network",
+  "homepage": "http://Imhotep6228.github.io/DappUGHPage1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -30,6 +30,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
